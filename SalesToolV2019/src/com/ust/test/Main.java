@@ -18,6 +18,8 @@ public class Main {
 	private static void displayGreeting(){
 		
 		System.out.println("Greeting Displayed");
+		System.out.println("Test1");
+		System.out.println("Test2");
 	}
 
 }
